@@ -1,0 +1,19 @@
+#digital-oclock {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #17D4FE;
+    font-family: Orbitron;
+}
+
+.clock {
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+.title {
+    font-size: 70px;
+    padding: 0 10%;
+}
